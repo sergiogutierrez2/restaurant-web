@@ -14,18 +14,18 @@ function Navbar() {
             <div className = "leftSide" id= {showLinks ? "open" : "close"}>
             <img src={logo}/>
             <div className='hiddenLinks'>
-            <Link to ="/">Home</Link>
-            <Link to ="/menu">Menu</Link>
-            <Link to ="/about">About</Link>
-            <Link to ="/contact">Contact</Link>
+            <Link to ="/restaurant-web/">Home</Link>
+            <Link to ="/restaurant-web/menu">Menu</Link>
+            <Link to ="/restaurant-web/about">About</Link>
+            <Link to ="/restaurant-web/contact">Contact</Link>
             </div>
             </div>
 
             <div className = "rightSide">
-            <Link to ="/">Home</Link>
-            <Link to ="/menu">Menu</Link>
-            <Link to ="/about">About</Link>
-            <Link to ="/contact">Contact</Link>
+            <Link to ="/restaurant-web/">Home</Link>
+            <Link to ="/restaurant-web/menu">Menu</Link>
+            <Link to ="/restaurant-web/about">About</Link>
+            <Link to ="/restaurant-web/contact">Contact</Link>
             <button onClick={Click}>
             <ReorderIcon />
             </button>

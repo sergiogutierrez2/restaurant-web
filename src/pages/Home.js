@@ -9,7 +9,7 @@ return(
     <div className="headerContainer">
     <h1>Quynh's Restaurant</h1>
     <br/>
-    <Link to="/menu">
+    <Link to="/restaurant-web/menu">
     <button>Order Now</button>
     </Link>
     </div>
