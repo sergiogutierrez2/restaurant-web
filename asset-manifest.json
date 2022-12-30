@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/restaurant-web/static/css/main.cf82b42b.css",
+    "main.js": "/restaurant-web/static/js/main.916818f6.js",
+    "static/media/cheeseburger.jpg": "/restaurant-web/static/media/cheeseburger.244e2edd9fb1a6cece8f.jpg",
+    "static/media/woodenbg.jpg": "/restaurant-web/static/media/woodenbg.b6f8fb8f7a34af52c5a5.jpg",
+    "static/media/doubledoublecheeseburger.jpg": "/restaurant-web/static/media/doubledoublecheeseburger.d6cb01eb9ed741faaf43.jpg",
+    "static/media/potluckchoppedsalad.jpg": "/restaurant-web/static/media/potluckchoppedsalad.c4cbbff786a62b932e02.jpg",
+    "static/media/milkshakes.jpg": "/restaurant-web/static/media/milkshakes.a40cdc3989ac1ad05287.jpg",
+    "static/media/foodmain.jpg": "/restaurant-web/static/media/foodmain.6c6a1bc2035f31129c66.jpg",
+    "static/media/fooda.jpeg": "/restaurant-web/static/media/fooda.61a1f59ee0c512ce88cb.jpeg",
+    "static/media/simplegreensalad.jpg": "/restaurant-web/static/media/simplegreensalad.75cb0f70c825d7258f40.jpg",
+    "static/media/crispfluffywaffles.jpg": "/restaurant-web/static/media/crispfluffywaffles.fc626840f07384be44ce.jpg",
+    "static/media/eggshashbrownbacon.jpg": "/restaurant-web/static/media/eggshashbrownbacon.3923b5184e60c6773070.jpg",
+    "static/media/woodentable.jpg": "/restaurant-web/static/media/woodentable.5b43ce714736ecf0e7d8.jpg",
+    "static/media/applepie.jpg": "/restaurant-web/static/media/applepie.8be1836cf42c1d30d9a2.jpg",
+    "static/media/pizza.jpg": "/restaurant-web/static/media/pizza.7f2594da1f2712ed0f71.jpg",
+    "static/media/buttermilkchicken.jpg": "/restaurant-web/static/media/buttermilkchicken.ae16c22195844462bba6.jpg",
+    "static/media/chickenstrips.jpg": "/restaurant-web/static/media/chickenstrips.8b6a3d19fcf9941803c2.jpg",
+    "static/media/ultimatepancakes.jpg": "/restaurant-web/static/media/ultimatepancakes.6944984df0996e43b250.jpg",
+    "static/media/logo.png": "/restaurant-web/static/media/logo.32e038d43e97448b5ec3.png",
+    "index.html": "/restaurant-web/index.html",
+    "main.cf82b42b.css.map": "/restaurant-web/static/css/main.cf82b42b.css.map",
+    "main.916818f6.js.map": "/restaurant-web/static/js/main.916818f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf82b42b.css",
+    "static/js/main.916818f6.js"
+  ]
+}
