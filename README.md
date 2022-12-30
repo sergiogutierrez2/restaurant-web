@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://github.com/sergiogutierrez2/restaurant-web/blob/main/Quynh1.png)
-![alt text](https://github.com/sergiogutierrez2/restaurant-web/blob/main/Quynh2.png)
+![alt text](https://github.com/sergiogutierrez2/restaurant-web/blob/master/Quynh2.png)
+![alt text](https://github.com/sergiogutierrez2/restaurant-web/blob/master/Quynh1.png)
 
 ## Available Scripts
 
